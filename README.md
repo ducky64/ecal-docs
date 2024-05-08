@@ -1,1 +1,1 @@
-# eink-ecal.github.io
+# ecal-docs
